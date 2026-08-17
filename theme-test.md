@@ -1,12 +1,3 @@
-<style>
-  /* 从 Google 加载刘建毛草字体 */
-  @import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap');
-  
-  /* 让这个页面里所有的文字都变成手写体（加 !important 确保覆盖主题样式） */
-  body, .markdown-body, p, h1, h2, h3, h4, h5, h6, li, blockquote, code {
-    font-family: 'Liu Jian Mao Cao', cursive !important;
-  }
-</style>
 # 欢迎来到我的极客空间！🤖
 
 > “Talk is cheap. Show me the code.”  
